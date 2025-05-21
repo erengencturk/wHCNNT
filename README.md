@@ -1,9 +1,9 @@
-SGAIOther.py
-      |
-      |->for SynthBuster-RAISE 1K
-      |
-      |->for SFHQ-FFHQ (https://www.kaggle.com/code/erengencturk/ffhq-sfhq-whcnnt)
+SGAIOther.py  
+<br>&emsp;&emsp;&emsp;|
+<br>&emsp;&emsp;&emsp;|->for SynthBuster-RAISE 1K
+<br>&emsp;&emsp;&emsp;|
+<br>&emsp;&emsp;&emsp;|->for SFHQ-FFHQ (https://www.kaggle.com/code/erengencturk/ffhq-sfhq-whcnnt)
 
 SGAIciFAKE.py
-      |
-      |->for ciFAKE (https://www.kaggle.com/code/erengencturk/cifake-whcnnt) Dataset
+<br>&emsp;&emsp;&emsp;|
+<br>&emsp;&emsp;&emsp;|->for ciFAKE (https://www.kaggle.com/code/erengencturk/cifake-whcnnt)
