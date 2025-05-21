@@ -1,3 +1,3 @@
-SGAIOther.py for SynthBuster-RAISE 1K and SFHQ-FFHQ datasets
+SGAIOther.py for SynthBuster-RAISE 1K and SFHQ-FFHQ (https://www.kaggle.com/code/erengencturk/ffhq-sfhq-whcnnt) datasets
 
-SGAIciFAKE.py for ciFAKE Dataset - https://www.kaggle.com/code/erengencturk/cifake-whcnnt
+SGAIciFAKE.py for ciFAKE (https://www.kaggle.com/code/erengencturk/cifake-whcnnt) Dataset
